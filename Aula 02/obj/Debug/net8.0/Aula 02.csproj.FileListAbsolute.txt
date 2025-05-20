@@ -1,0 +1,29 @@
+C:\Alura c# PRO\Aula 02\bin\Debug\net8.0\Aula 02.exe
+C:\Alura c# PRO\Aula 02\bin\Debug\net8.0\Aula 02.deps.json
+C:\Alura c# PRO\Aula 02\bin\Debug\net8.0\Aula 02.runtimeconfig.json
+C:\Alura c# PRO\Aula 02\bin\Debug\net8.0\Aula 02.dll
+C:\Alura c# PRO\Aula 02\bin\Debug\net8.0\Aula 02.pdb
+C:\Alura c# PRO\Aula 02\obj\Debug\net8.0\Aula 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura c# PRO\Aula 02\obj\Debug\net8.0\Aula 02.AssemblyInfoInputs.cache
+C:\Alura c# PRO\Aula 02\obj\Debug\net8.0\Aula 02.AssemblyInfo.cs
+C:\Alura c# PRO\Aula 02\obj\Debug\net8.0\Aula 02.csproj.CoreCompileInputs.cache
+C:\Alura c# PRO\Aula 02\obj\Debug\net8.0\Aula 02.dll
+C:\Alura c# PRO\Aula 02\obj\Debug\net8.0\refint\Aula 02.dll
+C:\Alura c# PRO\Aula 02\obj\Debug\net8.0\Aula 02.pdb
+C:\Alura c# PRO\Aula 02\obj\Debug\net8.0\Aula 02.genruntimeconfig.cache
+C:\Alura c# PRO\Aula 02\obj\Debug\net8.0\ref\Aula 02.dll
+C:\CSP01\Aula 02\obj\Debug\net8.0\Aula 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSP01\Aula 02\obj\Debug\net8.0\Aula 02.AssemblyInfoInputs.cache
+C:\CSP01\Aula 02\obj\Debug\net8.0\Aula 02.AssemblyInfo.cs
+C:\CSP01\Aula 02\obj\Debug\net8.0\Aula 02.csproj.CoreCompileInputs.cache
+C:\CSP01\Aula 02\obj\Debug\net8.0\Aula 02.sourcelink.json
+C:\CSP01\Aula 02\obj\Debug\net8.0\Aula 02.dll
+C:\CSP01\Aula 02\obj\Debug\net8.0\refint\Aula 02.dll
+C:\CSP01\Aula 02\obj\Debug\net8.0\Aula 02.pdb
+C:\CSP01\Aula 02\bin\Debug\net8.0\Aula 02.exe
+C:\CSP01\Aula 02\bin\Debug\net8.0\Aula 02.deps.json
+C:\CSP01\Aula 02\bin\Debug\net8.0\Aula 02.runtimeconfig.json
+C:\CSP01\Aula 02\bin\Debug\net8.0\Aula 02.dll
+C:\CSP01\Aula 02\bin\Debug\net8.0\Aula 02.pdb
+C:\CSP01\Aula 02\obj\Debug\net8.0\Aula 02.genruntimeconfig.cache
+C:\CSP01\Aula 02\obj\Debug\net8.0\ref\Aula 02.dll
