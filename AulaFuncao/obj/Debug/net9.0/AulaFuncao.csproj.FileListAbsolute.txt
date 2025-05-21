@@ -1,0 +1,15 @@
+C:\projetos\2025\CSP01\AulaFuncao\bin\Debug\net9.0\AulaFuncao.exe
+C:\projetos\2025\CSP01\AulaFuncao\bin\Debug\net9.0\AulaFuncao.deps.json
+C:\projetos\2025\CSP01\AulaFuncao\bin\Debug\net9.0\AulaFuncao.runtimeconfig.json
+C:\projetos\2025\CSP01\AulaFuncao\bin\Debug\net9.0\AulaFuncao.dll
+C:\projetos\2025\CSP01\AulaFuncao\bin\Debug\net9.0\AulaFuncao.pdb
+C:\projetos\2025\CSP01\AulaFuncao\obj\Debug\net9.0\AulaFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\2025\CSP01\AulaFuncao\obj\Debug\net9.0\AulaFuncao.AssemblyInfoInputs.cache
+C:\projetos\2025\CSP01\AulaFuncao\obj\Debug\net9.0\AulaFuncao.AssemblyInfo.cs
+C:\projetos\2025\CSP01\AulaFuncao\obj\Debug\net9.0\AulaFuncao.csproj.CoreCompileInputs.cache
+C:\projetos\2025\CSP01\AulaFuncao\obj\Debug\net9.0\AulaFuncao.sourcelink.json
+C:\projetos\2025\CSP01\AulaFuncao\obj\Debug\net9.0\AulaFuncao.dll
+C:\projetos\2025\CSP01\AulaFuncao\obj\Debug\net9.0\refint\AulaFuncao.dll
+C:\projetos\2025\CSP01\AulaFuncao\obj\Debug\net9.0\AulaFuncao.pdb
+C:\projetos\2025\CSP01\AulaFuncao\obj\Debug\net9.0\AulaFuncao.genruntimeconfig.cache
+C:\projetos\2025\CSP01\AulaFuncao\obj\Debug\net9.0\ref\AulaFuncao.dll
